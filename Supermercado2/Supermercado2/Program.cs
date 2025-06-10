@@ -6,10 +6,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        Data.CargarDatos(tienda);
-
+        
         Tienda tienda = new Tienda();
         Carrito carrito = new Carrito();
+        Data.Data.CargarDatos(tienda);
 
         while (true)
         {

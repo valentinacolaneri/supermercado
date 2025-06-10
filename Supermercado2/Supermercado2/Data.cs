@@ -2,7 +2,7 @@
 using System;
 using System.Linq;
 
-namespace supermercado
+namespace Data
 {
     public static class Data
     {
@@ -15,13 +15,13 @@ namespace supermercado
             var categoriaAlimentos = new Categoria("Alimentos", "Productos alimenticios");
 
             // Agregar categorías a la tienda
-            tienda.Categorias.AddRange(new List<Categoria>)
+            tienda.Categorias.AddRange(new List<Categoria>
             {
                 categoriaElectronica,
-            categoriaRopa,
-            categoriaHogar,
-            categoriaAlimentos
-        });
+                categoriaRopa,
+                categoriaHogar,
+    categoriaAlimentos
+});
 
             // Crear y agregar productos
             tienda.Productos.AddRange(new List<Producto>

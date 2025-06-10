@@ -2,3 +2,13 @@ C:\Users\colan\source\repos\Supermercado2\Supermercado2\obj\Debug\net8.0\Superme
 C:\Users\colan\source\repos\Supermercado2\Supermercado2\obj\Debug\net8.0\Supermercado2.AssemblyInfoInputs.cache
 C:\Users\colan\source\repos\Supermercado2\Supermercado2\obj\Debug\net8.0\Supermercado2.AssemblyInfo.cs
 C:\Users\colan\source\repos\Supermercado2\Supermercado2\obj\Debug\net8.0\Supermercado2.csproj.CoreCompileInputs.cache
+C:\Users\colan\source\repos\Supermercado2\Supermercado2\bin\Debug\net8.0\Supermercado2.exe
+C:\Users\colan\source\repos\Supermercado2\Supermercado2\bin\Debug\net8.0\Supermercado2.deps.json
+C:\Users\colan\source\repos\Supermercado2\Supermercado2\bin\Debug\net8.0\Supermercado2.runtimeconfig.json
+C:\Users\colan\source\repos\Supermercado2\Supermercado2\bin\Debug\net8.0\Supermercado2.dll
+C:\Users\colan\source\repos\Supermercado2\Supermercado2\bin\Debug\net8.0\Supermercado2.pdb
+C:\Users\colan\source\repos\Supermercado2\Supermercado2\obj\Debug\net8.0\Supermercado2.dll
+C:\Users\colan\source\repos\Supermercado2\Supermercado2\obj\Debug\net8.0\refint\Supermercado2.dll
+C:\Users\colan\source\repos\Supermercado2\Supermercado2\obj\Debug\net8.0\Supermercado2.pdb
+C:\Users\colan\source\repos\Supermercado2\Supermercado2\obj\Debug\net8.0\Supermercado2.genruntimeconfig.cache
+C:\Users\colan\source\repos\Supermercado2\Supermercado2\obj\Debug\net8.0\ref\Supermercado2.dll
