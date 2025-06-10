@@ -1,0 +1,4 @@
+C:\Users\colan\source\repos\Supermercado2\Supermercado2\obj\Debug\net8.0\Supermercado2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colan\source\repos\Supermercado2\Supermercado2\obj\Debug\net8.0\Supermercado2.AssemblyInfoInputs.cache
+C:\Users\colan\source\repos\Supermercado2\Supermercado2\obj\Debug\net8.0\Supermercado2.AssemblyInfo.cs
+C:\Users\colan\source\repos\Supermercado2\Supermercado2\obj\Debug\net8.0\Supermercado2.csproj.CoreCompileInputs.cache
