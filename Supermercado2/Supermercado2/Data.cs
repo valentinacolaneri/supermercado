@@ -8,13 +8,13 @@ namespace Data
     {
         public static void CargarDatos(Tienda tienda)
         {
-            // Crear categorías
+           
             var categoriaElectronica = new Categoria("Electrónica", "Productos electrónicos y dispositivos");
             var categoriaRopa = new Categoria("Ropa", "Prendas de vestir");
             var categoriaHogar = new Categoria("Hogar", "Artículos para el hogar");
             var categoriaAlimentos = new Categoria("Alimentos", "Productos alimenticios");
 
-            // Agregar categorías a la tienda
+            
             tienda.Categorias.AddRange(new List<Categoria>
             {
                 categoriaElectronica,
@@ -23,7 +23,7 @@ namespace Data
     categoriaAlimentos
 });
 
-            // Crear y agregar productos
+           
             tienda.Productos.AddRange(new List<Producto>
         {
             new Producto(1, "Smartphone", 500m, 20, categoriaElectronica),
