@@ -102,7 +102,7 @@ class Program
                     break;
 
                 case "0":
-                    Console.WriteLine("Gracias por usar el sistema. ¡Hasta luego!");
+                    Console.WriteLine("Gracias por usar nuestro sistema. Esperamos que vuelva al supermercado pronto");
                     return;
 
                 default:
